@@ -57,7 +57,7 @@ second one still said the old number.
 Every fix here says what broke and what it cost, not what the code does. If I
 cannot explain the failure, I do not understand the fix yet.
 
-Anything I have not proven, I say so. Both READMEs above have a section for it.
+Anything I have not proven, I say so. Every README above has a section for it.
 
 ## Stack
 
