@@ -1,4 +1,10 @@
-# David
+# Hermes
+
+Founder and engineer, Lisbon.
+
+I write the code and I make the calls, which means when something here is wrong
+there is nobody else it belongs to. That is most of why the repositories below
+are written the way they are.
 
 I am building one thing. Everything public here fell out of building it.
 
@@ -63,4 +69,4 @@ Anything I have not proven, I say so. Every README above has a section for it.
 
 Solana, Anchor, Rust. Node, React, Postgres, Prisma. Vercel.
 
-Reach me at **david.guedesact@gmail.com**.
+**[@hermetixweb3](https://x.com/hermetixweb3)** on X, or david.guedesact@gmail.com.
