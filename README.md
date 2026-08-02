@@ -41,6 +41,17 @@ approval cannot wave through a new one.
 it would have blocked the first deploy after a database restore, which is
 exactly when you need it least.
 
+**[legal-version-guard](https://github.com/duhvid23/legal-version-guard)**
+Your terms of service say a customer has 14 days to cancel. A constant in your
+code says 21. Both were right the day they were written, and now the contract is
+wrong and nobody will notice until a customer quotes it back. This fails the
+build instead. It also refuses to let you edit a document somebody already
+accepted, because they agreed to specific bytes and editing those destroys the
+record of what was agreed.
+147 tests. Two of them are the real times it caught me: once when I moved a
+number and left the contract behind, and once when I fixed that document and a
+second one still said the old number.
+
 ## How I work
 
 Every fix here says what broke and what it cost, not what the code does. If I
